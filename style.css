@@ -1,11 +1,10 @@
 body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+  font-family: 'Pacifico';
+  display: flex;
+  justify-content: center;
 }
 
 canvas {
-    display: block;
-    margin: 0 auto;
-    background-color: #70c5ce;
+  border: 1x solid #0a3cda;
+  margin: 10px;
 }
